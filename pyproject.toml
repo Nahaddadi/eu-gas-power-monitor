@@ -1,0 +1,31 @@
+[project]
+name = "energydesk"
+version = "0.1.0"
+description = "Daily European gas / carbon / German power monitor that drafts an analyst desk note with a free LLM."
+readme = "README.md"
+requires-python = ">=3.11,<4"
+authors = [{ name = "Nassim Haddadi" }]
+dependencies = [
+    "requests>=2.32",
+    "python-dotenv>=1.0",
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "matplotlib>=3.9",
+    "yfinance>=0.2.50",
+    "trafilatura>=1.12",
+    "ddgs>=9.0",
+    "streamlit>=1.38",
+    "reportlab>=4.0 ; python_version < '4'",
+]
+
+[project.scripts]
+energydesk = "energydesk.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+# Explicit because the root-level app.py module would otherwise make
+# automatic flat-layout discovery ambiguous.
+[tool.setuptools]
+packages = ["energydesk"]

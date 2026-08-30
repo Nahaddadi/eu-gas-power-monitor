@@ -1,0 +1,26 @@
+# Environments and secrets
+.venv/
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Personal, not published
+tests/
+pytest.ini
+
+# Data and run outputs (everything is regenerable)
+data/cache/
+runs/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db

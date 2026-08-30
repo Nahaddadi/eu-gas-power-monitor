@@ -1,0 +1,32 @@
+[BOTTOM LINE]
+Gas storage sits well above its seasonal average, giving the system flexibility, according to GIE data [1], but the TTF curve remains in backwardation showing near‑term physical tightness that keeps gas prices elevated. Carbon prices are edging higher, adding to the cost of gas‑fired generation and pushing the clean spark spread to –25.1 EUR/MWh, so gas remains out of the money. The biggest near‑term risk is a cold snap that would draw storage down and tighten the TTF front, potentially flipping the spark spread.
+
+[GAS]
+Gas storage stands at 61.7 percent, 12.7 percentage points above the 49.0 percent period average, indicating ample flexibility for the upcoming withdrawal season [1].  
+The TTF front contract trades at 66.5 EUR/MWh while the December 2026 contract is at 65.63 EUR/MWh, giving a negative slope of –0.87 EUR/MWh and a backwardated curve.  
+Backwardation signals that near‑term supply is tighter than later months, even though storage is ample.  
+Steady LNG inflows into Europe continue to meet demand, limiting upside pressure on the front contract [2].  
+Mild weather forecasts for the coming weeks reduce heating‑demand expectations, helping keep the front price near its current level [2].  
+No major unplanned outages have been reported, so the storage surplus remains the dominant factor balancing the market [2].
+
+[CARBON]
+EUA spot stands at 79.7 EUR/t with a 2.2 percent rise over the past twenty days.  
+Auction supply remains steady, industrial demand is unchanged, and the EU’s net‑zero by 2050 pathway continues to support a gradual tightening of allowance availability [2].  
+At the current gas price, the carbon cost adds roughly 29.5 EUR/MWh to the SRMC of a gas plant, pushing the clean spark spread to –25.1 EUR/MWh and keeping gas out of the money.  
+Gas would become competitive only if the spark spread turned positive, i.e., if day‑ahead power prices rose above the gas SRMC by enough to offset the carbon and variable cost.
+
+[POWER]
+The seven‑day average day‑ahead price in Germany is 139.4 EUR/MWh, while the thirty‑day average is 125.9 EUR/MWh, showing an upward trend.  
+Compared with the gas SRMC of 164.5 EUR/MWh, both averages lie well below, placing the clean spark spread at –25.1 EUR/MWh and the regime firmly in “gas out of the money”.  
+At present, renewables (wind and solar) are setting the marginal price for most hours, keeping wholesale prices low, while coal‑fired units and occasional imports determine the peaks when renewable output dips.  
+The backwardated TTF curve suggests near‑term gas tightness, but the sizable storage surplus provides a buffer that could blunt any price spike [1].  
+Continued renewable buildout and no reported major transmission outages keep the downside pressure on power prices [2].  
+Because forward power prices are not published, the TTF curve is used only as a directional proxy for future German power levels.
+
+[RISKS]
+- A prolonged cold snap across Northern Europe would raise heating demand, pulling gas storage below the five‑year average and tightening the TTF front contract [1].
+- An unplanned outage at a major LNG import terminal would curb supplies, steepening the TTF backwardation and accelerating storage withdrawals [2].
+- A surprise tightening of the EU ETS auction reserve would lift EUA spot prices, increasing the effective gas SRMC and pushing the clean spark spread further negative [2].
+- A rebound in German industrial electricity demand would lift day‑ahead power prices, narrowing the clean spark spread and potentially bringing gas back into the merit order.
+
+ANALYST: Please assess the impact of any upcoming EU gas storage regulation changes and monitor Asian LNG spot prices for shifts in Atlantic competition.
